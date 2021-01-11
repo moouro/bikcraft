@@ -170,6 +170,12 @@
 	
 	}
 
+	/* sessão da página contato */
+	.contato-form{
+		padding-right: 0;
+		margin-bottom: 40px;
+	}
+
 }
 
 
