@@ -12,6 +12,35 @@
 	
 		padding: 0 10px;
 	}
+
+/* sessão da página produtos */
+.produto-item h2{
+ top: -150px;
+  
+}
+
+.produto-icone{
+  
+  padding: 41px 0;
+}
+
+.produto-info p{
+
+  font-size: 14px;
+  line-height: 20px;
+  padding: 20px 30px;
+  height: 122px;
+}
+
+.produto-info ul li{
+  width: 181px;
+  height: 49px;
+  
+}
+
+
+
+
 	/* footer */
 
 .footer-sociais ul li a{
@@ -31,7 +60,7 @@
 @media only screen and (max-width: 787px) {
 
 
-	/* header  */ /*configurações gerais */
+	/* header  configurações gerais */
 	.header{
 		position: relative;
 		padding-bottom: 0;
@@ -100,6 +129,44 @@
 	.missao-sobre ul li{
 		font-size: 14px;
 		line-height: 25px;
+	
+	}
+
+	/* sessão da pagina produtos */
+	.produto-item h2{
+		top: -100px;
+		margin-bottom: -68px;
+		 
+	 }
+	 
+	 .produto-icone{
+		 
+		 padding: 41px 0;
+	 }
+	 
+	 .produto-info p{
+	 
+		 font-size: 14px;
+		 line-height: 20px;
+		 padding: 20px 30px;
+		 height: auto;
+	 }
+	 
+	 .produto-info ul li{
+		 width: 149px;
+		 height: 49px;
+		 font-size: 14px;
+		 line-height: 20px;
+		 padding-top: 14px;
+		 
+	 }
+
+	 .form{
+		 padding-right: 0;
+	 }
+	 
+	 .orcamento-dados ul{
+		margin-right: 0;
 	
 	}
 
